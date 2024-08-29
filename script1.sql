@@ -1,0 +1,4 @@
+CREATE TABLE TempImageUrls (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    ImageUrl NVARCHAR(500)
+);
